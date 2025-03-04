@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-  - export DEPLOYPATH=/home/agrymlmx/avscms/
+  - export DEPLOYPATH=/home/agrymlmx/repositories/avscms/
